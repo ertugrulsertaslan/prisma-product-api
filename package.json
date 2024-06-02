@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.14.0",
+    "express": "^4.19.2",
+    "prisma": "^5.14.0"
+  },
+  "name": "prisma-product-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
